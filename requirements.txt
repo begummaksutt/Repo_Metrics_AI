@@ -1,0 +1,30 @@
+# GitHub Kalite Analiz Projesi - Bağımlılıklar
+
+# Veri analizi
+numpy>=1.24.0
+
+# Görselleştirme
+plotly>=5.18.0
+
+# Web Dashboard
+streamlit>=1.29.0
+
+# HTTP istekleri (GitHub API)
+requests>=2.31.0
+
+# Tip kontrolü (opsiyonel)
+typing-extensions>=4.8.0
+
+# LLM Provider'lar (en az birini yükleyin)
+# OpenAI GPT
+openai>=1.6.0
+
+# Google Gemini (opsiyonel)
+# google-generativeai>=0.3.0
+
+# Anthropic Claude (opsiyonel)
+# anthropic>=0.8.0
+
+# Not: Ollama yerel olarak çalışır, paket gerektirmez
+# https://ollama.ai adresinden indirin
+
