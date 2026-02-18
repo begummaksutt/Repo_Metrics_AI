@@ -1,6 +1,6 @@
 Repo_Metrics_AI
 
-Repo_Metrics_AI, GitHub depolarının kalite metriklerini analiz eden ve sonuçları görselleştiren bir projedir. Repo performansı ölçülür, kalite skoru hesaplanır ve trend analizleri yapılır.
+Repo_Metrics_AI, GitHub depolarının kalite metriklerini analiz eden ve sonuçları etkileşimli bir dashboard üzerinde görselleştiren bir projedir. Proje, repo performansını ölçmek, kalite skorunu hesaplamak ve zaman içindeki gelişimi analiz etmek amacıyla geliştirilmiştir.
 
 Özellikler
 - Repo kalite metrikleri analizi
@@ -10,4 +10,4 @@ Repo_Metrics_AI, GitHub depolarının kalite metriklerini analiz eden ve sonuçl
 - Streamlit dashboard ve Plotly grafikler
 
 Teknolojiler
-Python, Streamlit, Plotly, NumPy, Requests ve LLM API servisleri.
+Python, Streamlit, Plotly, NumPy, Requests ve LLM API servisleri kullanılmıştır.
